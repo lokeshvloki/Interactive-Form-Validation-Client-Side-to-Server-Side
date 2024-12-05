@@ -33,20 +33,23 @@ L1-T2/
 ```
 ---
 ## 📂 **💻 Getting Started**
+
 ### 1️⃣ Set Up the Environment
 * Install a local server (e.g., XAMPP or WAMP).
 * Place the L1-T2 folder in the server’s htdocs directory.
 ### 2️⃣ Run the Server
-*Start your server and open the browser.
- Navigate to:
- http://localhost/L1-T2/index.html
+* Start your server and open the browser.
+ Navigate to: http://localhost/L1-T2/index.html
 ### 3️⃣ Test the Form
-* Fill in the fields:
-** Name
-** Email
-** Password
-** Age
-*Submit to see:
-** Validation in action.
-** Dynamically styled confirmation message.
+* **Fill in the fields:**
+* Name
+* Email
+* Password
+* Age
+* **Submit to see:**
+* Validation in action.
+* Dynamically styled confirmation message.
+---
+## 📂 **💻 Getting Started**
+  
 
