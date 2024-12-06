@@ -1,0 +1,12 @@
+# Dynamic Form Submission with PHP
+
+This project demonstrates a simple HTML form where user input (Name, Email) is submitted to a PHP script for processing and display.
+
+## How to Run
+
+1. Clone the repository or download the project folder.
+2. Open a browser and go to `http://localhost/L1-T2/index.html`.
+3. Fill out the form and hit "Submit."
+4. The submitted details will be displayed on the `submit.php` page.
+
+Enjoy experimenting with PHP and form submission!
